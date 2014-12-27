@@ -1,0 +1,4 @@
+ComputerGrafik
+==============
+
+Übungsaufgaben aus Praktikum
